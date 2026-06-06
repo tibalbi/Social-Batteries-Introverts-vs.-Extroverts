@@ -18,7 +18,7 @@ This project explores how self-reported behavioral indicators differ between peo
 The dataset used in this project is the Kaggle dataset **Extrovert vs. Introvert Behavior Data**, published by Rakesh Kapilavai.
 
 Source: Kaggle, Extrovert vs. Introvert Behavior Data
-Repository file: `data/personality_dataset.csv`
+Repository file: `data/personality_datasert.csv`
 
 The dataset contains behavioral indicators and a personality label. The main variables used are:
 
@@ -75,7 +75,6 @@ To reproduce the analysis:
 2. Open `Tiziana Balbi Pynotebook.ipynb`.
 3. Run the notebook from top to bottom.
 4. The notebook loads `personality_datasert.csv` and generates the visualizations used in the presentation.
-5. Final presentation 
 
 Datawrapper chart:
 https://datawrapper.dwcdn.net/3EimF/2/
@@ -93,4 +92,10 @@ https://www.kaggle.com/datasets/rakeshkapilavai/extrovert-vs-introvert-behavior-
 
 This project is shared for educational purposes as part of a Data Visualization individual assignment.
 
-License for this repository: **CCC BY 4.0.**
+Repository license: CC BY 4.0
+
+Dataset source:
+Extrovert vs. Introvert Behavior Data (Kaggle)
+
+Dataset license:
+CC0 Public Domain Dedication
