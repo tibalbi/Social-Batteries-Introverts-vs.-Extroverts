@@ -8,11 +8,10 @@ This project explores how self-reported behavioral indicators differ between peo
 
 ### Sub-questions
 
-* Which behavioral variables show the clearest difference between introverts and extroverts?
-* Do introverts spend more time alone than extroverts?
-* Are extroverts more active in offline social activities, such as social events and going outside?
-* Is digital engagement, measured through post frequency, also higher among extroverts?
-* What limitations should be considered before interpreting these patterns?
+* Which social behaviors most strongly distinguish introverts from extroverts?
+* Do introverts spend more time alone?
+* Do extroverts attend more social events?
+* Which behavior shows the largest difference?
 
 ## Dataset
 
