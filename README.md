@@ -94,4 +94,4 @@ https://www.kaggle.com/datasets/rakeshkapilavai/extrovert-vs-introvert-behavior-
 
 This project is shared for educational purposes as part of a Data Visualization individual assignment.
 
-Suggested license for this repository: **CCC BY 4.0.**
+License for this repository: **CCC BY 4.0.**
