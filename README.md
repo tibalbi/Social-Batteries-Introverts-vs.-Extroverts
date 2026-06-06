@@ -84,8 +84,14 @@ https://datawrapper.dwcdn.net/3EimF/2/
 Dataset source:
 https://www.kaggle.com/datasets/rakeshkapilavai/extrovert-vs-introvert-behavior-data
 
+## Repository Contents
+
+- `personality_datasert.csv`: dataset used for the analysis.
+- `Tiziana Balbi Pynotebook.ipynb`: reproducible Jupyter Notebook with the analysis.
+- `README.md`: project documentation.
+
 ## License
 
 This project is shared for educational purposes as part of a Data Visualization individual assignment.
 
-Suggested license for this repository: **CC BY-NC-SA 4.0**
+Suggested license for this repository: **CCC BY 4.0.**
