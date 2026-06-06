@@ -44,8 +44,8 @@ Main steps:
 6. Created visualizations using two tools:
 
    * Python / Matplotlib for exploratory charts.
-   * Datawrapper or Flourish for presentation-ready visualizations.
-7. Interpreted the results as descriptive patterns, not as causal evidence.
+   * Datawrapper for visualizations.
+7. Interpreted the results as descriptive patterns.
 
 ## Main Insights
 
@@ -71,11 +71,10 @@ For this reason, the findings should be interpreted as descriptive patterns with
 
 * `data/`: original or cleaned dataset.
 * `notebooks/`: reproducible Jupyter Notebook with the analysis.
-* `visuals/`: exported charts used in the presentation.
-* `docs/`: methodology, limitations, and final presentation.
+* `docs/`: final presentation.
 
 ## License
 
 This project is shared for educational purposes as part of a Data Visualization individual assignment.
 
-Suggested license for this repository: **CC BY-NC-SA 4.0**, unless a different license is required by the dataset source.
+Suggested license for this repository: **CC BY-NC-SA 4.0**
