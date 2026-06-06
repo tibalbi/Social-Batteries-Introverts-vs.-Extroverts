@@ -67,11 +67,22 @@ The dataset has important limitations:
 
 For this reason, the findings should be interpreted as descriptive patterns within the available dataset.
 
-## Repository Contents
+## Reproducibility
 
-* `data/`: original or cleaned dataset.
-* `notebooks/`: reproducible Jupyter Notebook with the analysis.
-* `docs/`: final presentation.
+The analysis was conducted in Jupyter Notebook using Python, Pandas, NumPy and Matplotlib.
+
+To reproduce the analysis:
+1. Download or clone this repository.
+2. Open `Tiziana Balbi Pynotebook.ipynb`.
+3. Run the notebook from top to bottom.
+4. The notebook loads `personality_datasert.csv` and generates the visualizations used in the presentation.
+5. Final presentation 
+
+Datawrapper chart:
+https://datawrapper.dwcdn.net/3EimF/2/
+
+Dataset source:
+https://www.kaggle.com/datasets/rakeshkapilavai/extrovert-vs-introvert-behavior-data
 
 ## License
 
